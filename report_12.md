@@ -132,7 +132,7 @@ Tương tự như CSS/SCSS, quy luật tương tự cũng áp dụng với JavaS
 ```
 Trong file trên, `//=require custom` dùng để đính kèm file custom.js vừa được tạo trong `app/assets/javascripts` một cách tự cho layout của chúng ta. Qúa trình này sẽ giúp ta thu gọn kích cỡ file, kích cỡ của request cũng như tăng tốc độ của ứng dụng. Ở môi trường local sẽ không có nhiều khác biệt nhưng nếu lên production, những thu gọn này sẽ mang lại nhiều giá trị về hiệu năng.
 
-Trên đây là cơ bản về Assets Pipeline trong Ruby on Rails.
+Trên đây là g cơ bản về Assets Pipeline trong Ruby on Rails.
 
 *Link tham khảo*
 
